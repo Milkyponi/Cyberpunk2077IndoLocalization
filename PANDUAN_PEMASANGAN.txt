@@ -1,0 +1,58 @@
+================================================================================
+          PANDUAN PEMASANGAN MOD BAHASA INDONESIA CYBERPUNK 2077
+                   Versi 1.0.0 (Base Game + Phantom Liberty)
+                Divisi Game Modding & Lokalisasi - Milky Brain
+================================================================================
+
+TENTANG MOD INI:
+Mod ini menerjemahkan 100% naskah Cyberpunk 2077 ke Bahasa Indonesia yang luwes,
+alami, kontekstual, dan berbobot sastra cyberpunk gritty:
+- Seluruh Alur Cerita Utama Base Game (Prologue s/d Seluruh Ending & Epilog).
+- Seluruh Alur Cerita Ekspansi Phantom Liberty & Dogtown Gigs (Songbird/Reed/Myers).
+- Seluruh Misi Sampingan Karakter Pendamping (Judy, Panam, River, Kerry, Johnny, Rogue, Peralez).
+- Seluruh Fixer Gigs (Regina, Wakako, Padre, Dakota, Dino, El Capitan).
+- Seluruh Shard Rahasia, Catatan Terminal Komputer, & Obrolan Pesan Teks SMS Kontak.
+- Ensiklopedia Codex Database, Situs Web Internet In-Game (Net54/WNS), & Kartu Tarot.
+- Seluruh Penjelasan & Deskripsi Mekanik Senjata, Cyberware, Perk Trees, Pakaian, & Item.
+- Seluruh Seruan Tempur Musuh, Celetukan Warga Jalanan, Obrolan Pedagang, & Siaran Radio/TV.
+
+KEBIJAKAN BAHASA:
+- Nama item, nama senjata, nama skill/cyberware, judul quest/gig, dan antarmuka utama (UI/HUD/Menu)
+  tetap dipertahankan dalam Bahasa Inggris original guna menjaga familiaritas gaming
+  dan panduan build komunitas internasional.
+
+TEKNOLOGI NATIVE OVERRIDE (ZERO-DEPENDENCY):
+- Mod ini berformat native archive (.archive) resmi engine REDengine 4.
+- TIDAK MEMERLUKAN mod loader pihak ketiga apa pun (Bebas RED4ext, bebas ArchiveXL, bebas ASI loader).
+- Aman dari crash instruksi CPU (kompatibel penuh prosesor legacy tanpa AVX2/AVX-512).
+- Menerapkan memory-mapped 4096-byte page alignment (bebas freeze/hang di Proton/Linux/Windows).
+
+--------------------------------------------------------------------------------
+CARA PASANG 1: METODE TIMPA LANGSUNG (PALING MUDAH & BEBAS RIBET)
+--------------------------------------------------------------------------------
+1. Ekstrak file .zip ini ke komputer Anda.
+2. Buka folder "TIMPA_KE_FOLDER_GAME".
+3. Salin (copy) folder "archive" yang ada di dalamnya.
+4. Buka folder instalasi game Cyberpunk 2077 Anda:
+   - Steam Windows: C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\
+   - GOG Windows: C:\GOG Games\Cyberpunk 2077\
+   - Linux / Steam Deck: ~/.local/share/Steam/steamapps/common/Cyberpunk 2077/
+5. Tempelkan (paste) folder "archive" tersebut ke folder game Cyberpunk 2077.
+   (File mod akan otomatis berada di: <Folder Game>\archive\pc\mod\cp2077_indo.archive).
+6. Jalankan Cyberpunk 2077 seperti biasa. Mod langsung aktif otomatis!
+
+--------------------------------------------------------------------------------
+CARA PASANG 2: SKRIP OTOMATIS
+--------------------------------------------------------------------------------
+- Windows: Klik ganda berkas "INSTALL.bat" dan masukkan path folder game Anda.
+- Linux / Steam Deck: Buka terminal di folder ekstraksi, jalankan:
+  chmod +x INSTALL.sh && ./INSTALL.sh
+
+--------------------------------------------------------------------------------
+CARA MENGHAPUS / UNINSTALL MOD:
+--------------------------------------------------------------------------------
+Cukup hapus satu file berikut dari folder game Anda:
+<Folder Game>\archive\pc\mod\cp2077_indo.archive
+
+Game Anda akan langsung kembali 100% original bahasa Inggris.
+================================================================================
