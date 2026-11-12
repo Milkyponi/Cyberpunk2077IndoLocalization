@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Cyberpunk 2077 Indonesian Localization Banner" width="100%">
+</p>
+
 <h1 align="center">Cyberpunk 2077 & Phantom Liberty — Indonesian Localization Mod</h1>
 
 <p align="center">
