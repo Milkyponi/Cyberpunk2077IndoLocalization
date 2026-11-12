@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Engine-REDengine%204%20(Native%20Archive)-orange?style=for-the-badge" alt="Engine">
   <img src="https://img.shields.io/badge/Cakupan-100%25%20Paripurna-brightgreen?style=for-the-badge" alt="Coverage">
   <img src="https://img.shields.io/badge/Dependency-Zero%20(Tanpa%20RED4ext)-purple?style=for-the-badge" alt="Zero Dependency">
+  <a href="https://trakteer.id/milkyponi"><img src="https://img.shields.io/badge/Donate-Trakteer%20Milky%20Poni-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer"></a>
 </p>
 
 ---
@@ -112,6 +113,20 @@ Game Anda akan langsung kembali 100% original bahasa Inggris tanpa perlu verifik
 * **Lead Modder, Reverse-Engineering & Localization**: Ochi (Head of Game Modding & Localization Division)
 * **Tooling & Serializer**: `cp2077-loc` pure-Python CR2W & RDAR packer by Milky Brain
 * **Original Game**: © CD PROJEKT S.A.
+
+---
+
+## ☕ Dukung Proyek Ini (Donate)
+
+Jika mod lokalisasi Bahasa Indonesia ini bermanfaat bagi pengalaman bermain Anda, Anda dapat memberikan dukungan pengembangan kepada **Milky Poni** melalui Trakteer:
+
+<p align="center">
+  <a href="https://trakteer.id/milkyponi">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Donate-Dukung%20di%20Trakteer%20(Milky%20Poni)-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer" height="40">
+  </a>
+</p>
+
+- **Link Trakteer**: [https://trakteer.id/milkyponi](https://trakteer.id/milkyponi)
 
 ---
 <p align="center"><i>Dibuat dengan dedikasi penuh untuk komunitas gamer Cyberpunk 2077 Indonesia oleh Milky Brain.</i></p>
